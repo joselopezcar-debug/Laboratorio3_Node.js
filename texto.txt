@@ -1,0 +1,5 @@
+Los streams en Node.js son muy poderosos para procesar datos.
+Esta transformación convierte el texto a mayúsculas.
+Es ideal para procesar archivos de gran tamaño sin consumir mucha memoria.
+Node.js proporciona una API sencilla para trabajar con streams.
+Los Transform Streams permiten modificar los datos mientras fluyen.`;
